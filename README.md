@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![Banner](Simple_Banner.jpeg)
 
 <a href="https://github.com/nirmalkumarkgs">
