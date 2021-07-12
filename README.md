@@ -21,11 +21,12 @@
 
 <br />
 
-### Hi, I’m Nirmal <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="24px"> 
+### Hi, I’m Nirmal currently working as senior software engineer <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="24px"> 
 - 🎓 Undergraduate from Anna university, majoring in Electronics and Communication
+- 💬 Ask me about C#, .Net, Java, SQL, Web Development and API's
 - 🌱 I’m always ready to collaborate and contribute
 - 🖥 Enhancing my Competitive Programming skills
-- 💬 Brainstorm with me over tech, algorithms
+- ⚡ My Motto is Never Stop Learning
 
 <a href="https://github.com/nirmalkumarkgs">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=nirmalkumarkgs&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="Nirmal's github stats" />
