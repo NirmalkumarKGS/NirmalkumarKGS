@@ -22,7 +22,7 @@
 <br />
 
 ### Hi, I’m Nirmal currently working as senior software engineer <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="24px"> 
-- 🎓 Undergraduate from Anna university, majoring in Electronics and Communication
+- 🎓 Undergraduate from affiliated college of Anna university, majoring in Electronics and Communication
 - 💬 Ask me about C#, .Net, Java, SQL, Web Development and API's
 - 🌱 I’m always ready to collaborate and contribute
 - 🖥 Enhancing my Competitive Programming skills
